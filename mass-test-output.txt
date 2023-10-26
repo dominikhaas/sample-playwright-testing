@@ -1,0 +1,2200 @@
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 1 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 2 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 3 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 4 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 5 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.3s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 6 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[9/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 7 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 8 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 9 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 10 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.3s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 11 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 12 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 13 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 14 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 15 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 16 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.3s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 17 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 18 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 19 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 20 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 21 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 22 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 23 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.3s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 24 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 25 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 26 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.5s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 27 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.6s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 28 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[9/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 29 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.2s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 30 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 31 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 32 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[9/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 33 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 34 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 35 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 36 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 37 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (8.6s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 38 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 39 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (14.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 40 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (12.5s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 41 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 42 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 43 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 44 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 45 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 46 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.3s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 47 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (10.2s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 48 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 49 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 50 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 51 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 52 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 53 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 54 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 55 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 56 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (14.6s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 57 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 58 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 59 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 60 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 61 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 62 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 63 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 64 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 65 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 66 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 67 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.6s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 68 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 69 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 70 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 71 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (10.2s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 72 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 73 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 74 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 75 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 76 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[7/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 77 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 78 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 79 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 80 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 81 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 82 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 83 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 84 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 85 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 86 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (8.4s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 87 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 88 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 89 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[11/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.4s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 90 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 91 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 92 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (10.0s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 93 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 94 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[3/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 95 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[4/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[5/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.7s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 96 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[2/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[12/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[32m  12 passed[39m[2m (10.1s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 97 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 98 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[3/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[4/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[5/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.9s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 99 ----
+
+[2mRunning [22m12[2m tests using [22m5[2m workers[22m
+
+[1A[2K[1/12] [firefox] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[2/12] [chromium] › cart-simple.spec.ts:3:5 › test
+[1A[2K[3/12] [chromium] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[4/12] [chromium] › example.spec.ts:3:5 › has title
+[1A[2K[5/12] [chromium] › example.spec.ts:10:5 › get started link
+[1A[2K[6/12] [firefox] › cart-simple.spec.ts:3:5 › test
+[1A[2K[7/12] [firefox] › example.spec.ts:3:5 › has title
+[1A[2K[8/12] [firefox] › example.spec.ts:10:5 › get started link
+[1A[2K[9/12] [webkit] › cart-po.spec.ts:5:5 › testBasicFlow
+[1A[2K[10/12] [webkit] › example.spec.ts:3:5 › has title
+[1A[2K[11/12] [webkit] › cart-simple.spec.ts:3:5 › test
+[1A[2K[12/12] [webkit] › example.spec.ts:10:5 › get started link
+[1A[2K[32m  12 passed[39m[2m (9.8s)[22m
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
+---- Ende des Durchlaufs 100 ----
