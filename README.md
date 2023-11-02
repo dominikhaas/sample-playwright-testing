@@ -7,27 +7,35 @@ Sample for e2e/frontend testing (used for talks)
 ## Preparation
 1. Clone https://github.com/sspringer82/wdc-next
 1. Open project wdc-next
-1. Start backend ```npm run backend```
-1. Start frontend ```npm run dev```
-1. Open project in visual studio code
+1. Start backend ```cd ../wdc-next && npm run backend```
+1. Start frontend ```cd ../wdc-next && npm run dev```
+1. Optional: Open project in visual studio code ```code ../wdc-next```
+1. Open ui: http://localhost:3000
 
 ## Part 1 - Getting started & tools
 We alredy initialized playwright via ```npm init playwright@latest```
 
 
 ---
-1. Run the tests with ```npx playwright test --headed```
+1. Run the tests with ```npx playwright test --headed --trace on```
 1. Show results ```npx playwright show-report```
-1. Run tests with traces ```npx playwright test --trace on```
-1. Run ui with ```npx playwright test --ui```
 1. Show visual studio extension
 1. Debug existing test
 
 
 
-## Part 2
-
 1. Record a new test
+- Open page
+- Click Pizza
+- Click headline
+- Back
+- Add to car
+- Open Cart
+- CLick item in cart
+- Buy
+- Click thank you 
+
+
 
 ```` typescript
 test('test', async ({ page }) => {
@@ -46,6 +54,4 @@ test('test', async ({ page }) => {
 ```
 
 
-4. Run test
-5. Run test with trace
-6. Run UI
+1. Run test
